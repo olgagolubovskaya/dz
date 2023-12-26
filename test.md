@@ -5,7 +5,7 @@
 ```sh
 git push origin master
 ```
-Как подключиться к удаленному репозитарию?
+Как подключиться к удаленному репозитарию??
 ```sh
  git remote add origin https:/
  ```
